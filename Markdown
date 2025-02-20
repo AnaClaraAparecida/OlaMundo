@@ -13,7 +13,7 @@
  ### Título 
  
  Risco do **Título** *** OU ---
- # Aula de markdown 
+ # Aula de markdown
  ---
 
  Mix de configurações, negito e itálico _*  _*misturar*_
@@ -57,3 +57,4 @@ else:
 
 
 Olá Ana 😻 :
+ 
